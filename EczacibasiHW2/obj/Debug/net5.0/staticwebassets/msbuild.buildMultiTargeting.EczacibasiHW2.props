@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EczacibasiHW2.props" />
+</Project>
